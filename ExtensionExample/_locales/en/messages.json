@@ -1,0 +1,8 @@
+{
+  "name":  {
+    "message": "Extension Example"
+  },
+  "description":  {
+    "message": "Extension Example - пример расширения для браузера."
+  }
+}
